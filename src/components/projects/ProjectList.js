@@ -1,5 +1,5 @@
 import React from 'react'
-import ProjectSummary from './ProjectSumamry'
+import ProjectSummary from './ProjectSummary'
 
 export default function ProjectList({projects}) {
   return (
